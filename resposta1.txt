@@ -1,1 +1,3 @@
 Resposta da Primeira Questão – Criada
+
+A interface do usuário se comunica com o serviço,o serviço se comunica com o back-end solicitando que os dados do serviço sejam salvos no cache. e posteriormente pode ser utilizado em modo offline.
