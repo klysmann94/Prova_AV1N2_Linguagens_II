@@ -1,4 +1,0 @@
-Resposta da Segunda Questão – Criada
-
-
-Esse diagrama apresenta o comportamento de uma aplicação em resposta a solicitação de uma imagem. O usuário solicita (em segundo plano) a imagem o cache, as imagens são carregadas em segundo plano para a internet, o aplicativo retorna a imagem no tamanho proporcional a tela.
